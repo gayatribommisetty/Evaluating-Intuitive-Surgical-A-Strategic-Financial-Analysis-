@@ -1,4 +1,4 @@
-## Valuation Project: Intuitive Surgical (ISRG)
+# Valuation Project: Intuitive Surgical (ISRG)
 
 # Overview
 
